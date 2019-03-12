@@ -1,5 +1,6 @@
 # Cubosphere [reborn] :basketball: :video_game:
 [![CircleCI (all branches)](https://img.shields.io/circleci/project/github/cubosphere/cubosphere-code/master.svg)](https://circleci.com/gh/cubosphere/cubosphere-code) [![#cubosphere on the freenode IRC network](https://img.shields.io/badge/FreeNode-%23cubosphere-brightgreen.svg)](https://webchat.freenode.net/?channels=cubosphere) [![linux downloads](https://img.shields.io/badge/downloads-linux-brightgreen.svg)](http://cubosphere.vallua.ru/artifacts)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fqwertychouskie%2Fcubosphere-code.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fqwertychouskie%2Fcubosphere-code?ref=badge_shield)
 ## A little story behind it
 One upon a time on planet called Earth one man have found very very cool but anadobed in 2011-12 years game called "cubosphere". He enjoyed it and dreamt that some day it will become great.
 
@@ -64,3 +65,7 @@ You can:
 
 # Ok, some credits
 You can find original homepage, codebase and developers at https://sourceforge.net/projects/cubosphere.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fqwertychouskie%2Fcubosphere-code.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fqwertychouskie%2Fcubosphere-code?ref=badge_large)
